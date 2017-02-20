@@ -1,0 +1,4 @@
+Udacity Discussion Forums
+OpenStreetMap Wiki
+Pyhton Documentation
+Google Translate

@@ -1,0 +1,6 @@
+1 - interpreter.osm is the dataset
+2 - Run auditdata.py to clean the dataset.
+3 - After data cleaning a file interpreter.osm.json will be created which is to be imported to mongodb database
+4 - Use following command in to load json data to mongodb:
+	mongoimport --db <db_name> --collection <collection_name> <cleaned_file.json
+5 - Run queries in mongodb to check the database.

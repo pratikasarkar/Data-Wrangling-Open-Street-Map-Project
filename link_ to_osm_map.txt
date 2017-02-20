@@ -1,0 +1,9 @@
+Used overpass API with the co-ordinates from following link:
+http://www.openstreetmap.org/export#map=14/18.5203/73.8543
+
+City : Pune
+State : Maharashtra
+Country : India
+
+The reason I chose this city is because I live here and am familiar with the surroundings.
+Pune is well known for its culture as well as its growth in IT industry. Its also well known for the historic places nearby like Shaniwar Wada and Sinhgad Fort.
